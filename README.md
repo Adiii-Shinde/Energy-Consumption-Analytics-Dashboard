@@ -1,4 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
 # Energy Consumption Analytics Dashboard
 
@@ -139,7 +138,8 @@ UPDATE energy_consumption SET cost_savings_usd = cost_savings_usd * 0.7 WHERE in
     - **Usage \& Savings breakdowns by demographics, region, energy source, year**
 
 **Sample dashboard preview:**
-*(see attached image in repository)*
+<img width="1512" height="871" alt="Energy Consumption Dasgboard" src="https://github.com/user-attachments/assets/2200fbd2-7bcb-4571-9f9c-23e3d08b7f9c" />
+
 
 ***
 
@@ -154,8 +154,6 @@ energy-consumption-dashboard/
 │   └── transformation.sql
 ├── images/
 │   └── Energy-Consumption-Dashboard.jpg
-├── docs/
-│   └── Integration_Steps.md
 └── Sql.txt
 ```
 
@@ -198,7 +196,7 @@ ORDER BY Total_CSU DESC;
 
 ***
 
-**Project maintained by: [Your Name/Handle]**
+**Project maintained by: [Aditya.S]**
 *Last updated: Nov 2025*
 <span style="display:none">[^2][^3]</span>
 
